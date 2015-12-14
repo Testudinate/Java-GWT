@@ -11,3 +11,5 @@ https://developers.google.com/eclipse/docs/install-eclipse-4.4?hl=ru
 https://developers.google.com/eclipse/docs/creating_new_webapp?hl=ru
 
 Дома проверить \ протестировать  
+
+3.Плагин версии 2.5.1 - http://www.gwtproject.org/versions.html
