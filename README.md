@@ -16,6 +16,30 @@ https://developers.google.com/eclipse/docs/creating_new_webapp?hl=ru
 4.Создать тестовое приложение Web Application Project - > запустить шаблон (далее установить плагин для Chrome 	
 "GWT Developer Plugin Options" - > добавить localhost.
 
+Первый запуск приложения :
+
+Initializing App Engine server
+дек 14, 2015 2:12:19 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFO: Overwriting system property key 'java.util.logging.config.file', value 'C:\Users\Stanislav.Klevtsov\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\plugins\com.google.appengine.eclipse.sdkbundle_1.9.30\appengine-java-sdk-1.9.30\config\sdk\logging.properties' with value 'WEB-INF/logging.properties' from 'C:\Users\Stanislav.Klevtsov\workspace\TestGWT_1\war\WEB-INF\appengine-web.xml'
+дек 14, 2015 2:12:19 PM com.google.apphosting.utils.jetty.JettyLogger info
+INFO: Logging to JettyLogger(null) via com.google.apphosting.utils.jetty.JettyLogger
+дек 14, 2015 2:12:19 PM com.google.appengine.tools.development.DevAppServerImpl setServerTimeZone
+WARNING: Unable to set the TimeZone to UTC (this is expected if running on JDK 8)
+дек 14, 2015 2:12:19 PM com.google.apphosting.utils.jetty.JettyLogger info
+INFO: jetty-6.1.x
+дек 14, 2015 2:12:20 PM com.google.apphosting.utils.jetty.JettyLogger info
+INFO: Started SelectChannelConnector@0.0.0.0:8888
+дек 14, 2015 2:12:20 PM com.google.appengine.tools.development.AbstractModule startup
+INFO: Module instance default is running at http://localhost:8888/
+дек 14, 2015 2:12:20 PM com.google.appengine.tools.development.AbstractModule startup
+INFO: The admin console is running at http://localhost:8888/_ah/admin
+дек 14, 2015 2:12:20 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+INFO: Dev App Server is now running
+
+development mode: 
+
+http://127.0.0.1:8888/TestGWT_1.html?gwt.codesvr=127.0.0.1:9997
+
 Как лечить эту ошибку \ сообщение : 
 
 Initializing App Engine server
