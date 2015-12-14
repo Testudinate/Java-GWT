@@ -13,3 +13,18 @@ https://developers.google.com/eclipse/docs/creating_new_webapp?hl=ru
 Дома проверить \ протестировать  
 
 3.Плагин версии 2.5.1 - http://www.gwtproject.org/versions.html
+4.Создать тестовое приложение Web Application Project - > запустить шаблон (далее установить плагин для Chrome 	
+"GWT Developer Plugin Options" - > добавить localhost.
+
+Как лечить эту ошибку \ сообщение : 
+
+Initializing App Engine server
+дек 14, 2015 2:06:12 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFO: Overwriting system property key 'java.util.logging.config.file', value 'C:\Users\Stanislav.Klevtsov\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\plugins\com.google.appengine.eclipse.sdkbundle_1.9.30\appengine-java-sdk-1.9.30\config\sdk\logging.properties' with value 'WEB-INF/logging.properties' from 'C:\Users\Stanislav.Klevtsov\workspace\TestGWT_1\war\WEB-INF\appengine-web.xml'
+
+************************************************
+Could not open the requested socket: Address already in use: bind
+Try overriding --address and/or --port.
+
+
+
