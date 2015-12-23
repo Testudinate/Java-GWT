@@ -50,8 +50,11 @@ INFO: Overwriting system property key 'java.util.logging.config.file', value 'C:
 Could not open the requested socket: Address already in use: bind
 Try overriding --address and/or --port.
 
-5. https://www.eclipse.org/egit/download/ 
+5.https://www.eclipse.org/egit/download/ 
 плагин для git-а
+
+6.Download UML DesignerVersion 5.0
+http://marketplace.obeonetwork.com/module/uml/download
 
 
 
