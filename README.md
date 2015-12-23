@@ -54,6 +54,9 @@ Try overriding --address and/or --port.
 плагин для git-а
 
 6.Download UML DesignerVersion 5.0
+
+https://marketplace.eclipse.org/category/free-tagging/free-uml-eclipse
+
 http://marketplace.obeonetwork.com/module/uml/download
 
 
