@@ -73,5 +73,6 @@ MoDisco - этим плагином генерировать .xmi файл и UM
  
  https://wiki.eclipse.org/MoDisco/SimpleTransformationChain
 
+-- https://wiki.eclipse.org/MoDisco/Installation  - this !!!
 
 
