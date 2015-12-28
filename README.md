@@ -65,5 +65,13 @@ http://www.umldesigner.org/
 
 8.http://marketplace.obeonetwork.com/module/uml2java-generator
 
+9.Плагин для отрисовки пакетов в Java
+
+MoDisco - этим плагином гинерировать .xmi файл и UML , а UML Disainer 5.0 уже из UML строит диаграмму пакетов, он и диаграмму классов сможет посмтроить , если xmi файл MoDisco более расширеный сгинерировать 
+
+ https://wiki.eclipse.org/MoDisco/Installation
+ 
+ https://wiki.eclipse.org/MoDisco/SimpleTransformationChain
+
 
 
